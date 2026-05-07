@@ -1,0 +1,15 @@
+# Node
+dev-checkpoint-frontend/node_modules
+dev-checkpoint-frontend/build
+
+# Java
+dev-checkpoint-backend/target
+*.class
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# OS
+.DS_Store
